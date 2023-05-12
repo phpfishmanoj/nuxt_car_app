@@ -2,7 +2,7 @@
 
 # Inner page : http://localhost:3000/city/cityname/car
 
-# Inner page : http://localhost:3000/car/toyota-3
+# Inner page : http://localhost:3000/car/carname-id
 
 # Nuxt 3 Minimal Starter
 
