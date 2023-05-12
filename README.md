@@ -1,3 +1,9 @@
+# Home page : http://localhost:3000/
+
+# Inner page : http://localhost:3000/city/cityname/car
+
+# Inner page : http://localhost:3000/car/toyota-3
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
